@@ -122,3 +122,10 @@
         column-gap: 0;
     }
 }
+
+.scroll-header {
+    -webkit-box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.75);
+    box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease;
+}
