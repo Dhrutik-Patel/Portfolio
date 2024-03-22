@@ -28,7 +28,7 @@ const Footer = () => {
                         href="https://www.github.com/Dhrutik-Patel"
                         className="footer__social-link"
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noopener noreferrer"
                     >
                         <i className="uil uil-github-alt"></i>
                     </a>
@@ -36,7 +36,7 @@ const Footer = () => {
                         href="https://www.linkedin.com/in/dhrutik-patel"
                         className="footer__social-link"
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noopener noreferrer"
                     >
                         <i className="uil uil-linkedin-alt"></i>
                     </a>
@@ -44,7 +44,7 @@ const Footer = () => {
                         href="https://www.instagram.com/dhrutik._.patel"
                         className="footer__social-link"
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noopener noreferrer"
                     >
                         <i className="uil uil-instagram"></i>
                     </a>
